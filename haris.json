@@ -1,0 +1,26 @@
+[
+    {
+        "frequency": "Twice daily.",
+        "how_to_use": "After cleansing and serum application, apply a generous amount to the face and neck, gently massaging in an upward motion until fully absorbed.",
+        "name": "NUUHA BEAUTY 7X PEPTIDE ULTIMATE GLASS SKIN MOISTURISER",
+        "step": 5,
+        "result": {
+            "confidence_percent": 0.7,
+            "name": null,
+            "feature": "Hydration and texture refinement",
+            "recommendation": "This moisturizer will enhance skin hydration and improve overall texture, leaving skin feeling soft and supple."
+        }
+    },
+    {
+        "frequency": "Twice daily.",
+        "how_to_use": "After cleansing and serum application, apply a generous amount to the face and neck, gently massaging in an upward motion until fully absorbed.",
+        "name": "NUUHA BEAUTY 7X PEPTIDE ULTIMATE GLASS SKIN MOISTURISER",
+        "step": 5,
+        "result": {
+            "confidence_percent": 0.7,
+            "name": "Acne-Related Blemishes",
+            "feature": null,
+            "recommendation": null
+        }
+    }
+]

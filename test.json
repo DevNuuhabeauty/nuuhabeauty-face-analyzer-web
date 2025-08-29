@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "data": {
+        "products": [
+            {
+                "name": "NUUHA BEAUTY MUGWORT HYDRA BRIGHT GENTLE DAILY FOAM CLEANSER",
+                "step": 1,
+                "how_to_use": "Apply a small amount to damp skin, gently massage in circular motions, and rinse thoroughly with lukewarm water.",
+                "frequency": "Morning and evening",
+                "disease": {
+                    "name": "Eczema",
+                    "confidence_percent": 0.999885082244873
+                }
+            },
+            {
+                "name": "NUUHA BEAUTY MUGWORT HYDRA BRIGHT GENTLE DAILY FOAM CLEANSER",
+                "step": 1,
+                "how_to_use": "Apply a small amount to damp skin, gently massage in circular motions, and rinse thoroughly with lukewarm water.",
+                "frequency": "Morning and evening",
+                "disease": {
+                    "name": "Eczema",
+                    "confidence_percent": 0.999885082244873
+                }
+            }
+        ]
+    }
+}
