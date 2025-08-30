@@ -1,10 +1,10 @@
-const CONCERN_API_URL = 'https://api.nuuhabeauty.com/analyze';
+const CONCERN_API_URL = 'https://prod.api.nuuhabeauty.com/analyze';
 
 
 export const SCRAP_API_URL = 'http://127.0.0.1:8000';
 
 
-const SERVER_API_URL = 'https://api.nuuhabeauty.com/server';
+const SERVER_API_URL = 'https://prod.api.nuuhabeauty.com/server';
 //http://127.0.0.1:5003
 //https://api.nuuhabeauty.com
 //http://104.248.159.42:8000
