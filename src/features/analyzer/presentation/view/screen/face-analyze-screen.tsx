@@ -341,6 +341,8 @@ const FaceMeshDetection = () => {
                 image: imageData
             }, { headers: { 'Content-Type': 'application/json' } });
 
+            console.log("Get Processing Steps", response.data);
+
             if (response.status !== 200) throw new Error(`HTTP error! status: ${response.status}`);
 
             const data = response.data.data;
